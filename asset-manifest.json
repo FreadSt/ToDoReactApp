@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FreadSt/ToDoReactApp.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/FreadSt/ToDoReactApp.git/static/js/main.25d40ddc.chunk.js",
+    "main.js.map": "/FreadSt/ToDoReactApp.git/static/js/main.25d40ddc.chunk.js.map",
+    "runtime-main.js": "/FreadSt/ToDoReactApp.git/static/js/runtime-main.f85802b0.js",
+    "runtime-main.js.map": "/FreadSt/ToDoReactApp.git/static/js/runtime-main.f85802b0.js.map",
+    "static/js/2.a98d8921.chunk.js": "/FreadSt/ToDoReactApp.git/static/js/2.a98d8921.chunk.js",
+    "static/js/2.a98d8921.chunk.js.map": "/FreadSt/ToDoReactApp.git/static/js/2.a98d8921.chunk.js.map",
+    "static/js/3.0c7e0a81.chunk.js": "/FreadSt/ToDoReactApp.git/static/js/3.0c7e0a81.chunk.js",
+    "static/js/3.0c7e0a81.chunk.js.map": "/FreadSt/ToDoReactApp.git/static/js/3.0c7e0a81.chunk.js.map",
+    "index.html": "/FreadSt/ToDoReactApp.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/FreadSt/ToDoReactApp.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a98d8921.chunk.js.LICENSE.txt": "/FreadSt/ToDoReactApp.git/static/js/2.a98d8921.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FreadSt/ToDoReactApp.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f85802b0.js",
+    "static/js/2.a98d8921.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.25d40ddc.chunk.js"
+  ]
+}
